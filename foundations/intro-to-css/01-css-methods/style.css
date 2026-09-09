@@ -1,0 +1,9 @@
+div{
+    display: flex;
+    background-color: red;
+    color:white;
+    padding: 20px;
+    content: 30px;
+    font-size: 25px;
+    justify-content: center;
+}
